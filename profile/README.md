@@ -37,8 +37,4 @@ Aqui ficam os repositórios que sustentam a plataforma: hub de gestão de alunos
 
 ---
 
-## Contato
-
-suporte@t2.com.br · [t2.com.br](https://t2.com.br)
-
 <sub>© 2026 T2 Educação S/A · CFP® é marca registrada da Planejar.</sub>
