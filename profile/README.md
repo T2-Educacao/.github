@@ -1,6 +1,6 @@
 # T2 Educação
 
-![T2 Educação Logo](https://t2.com.br/logo.png)
+![T2 Educação Logo](../logo-t2.png)
 
 ## Sobre
 
