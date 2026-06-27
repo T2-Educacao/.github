@@ -25,16 +25,4 @@ Aqui ficam os repositórios que sustentam a plataforma: hub de gestão de alunos
 
 ---
 
-## Certificações
-
-| | Certificação | Perfil |
-|---|---|---|
-| 🟢 | **CPA** | Entrada no mercado financeiro |
-| 🔵 | **C-Pro R** | Alta renda e relacionamento |
-| 🔵 | **C-Pro I** | Análise técnica de investimentos |
-| 🔵 | **ANCORD** | Assessor de investimentos |
-| 🏆 | **CFP®** | Gestão de patrimônio — topo de carreira |
-
----
-
 <sub>© 2026 T2 Educação S/A · CFP® é marca registrada da Planejar.</sub>
