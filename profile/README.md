@@ -1,12 +1,12 @@
 # T2 Educação
 
-![T2 Educação Logo](../logo-t2.png)
+![T2 Educação Logo](https://t2.com.br/logo.png)
 
 ## Sobre
 
 A T2 Educação é uma plataforma de educação digital que capacita milhares de alunos e profissionais através de conteúdo de alta qualidade, inovação tecnológica e uma comunidade engajada.
 
-Somos uma empresa focada em transformar vidas através da educação acessível, oferecendo cursos, programas de formação profissional e soluções B2B para empresas que desejam investir no desenvolvimento de suas equipes.
+Transformamos vidas através da educação acessível, oferecendo cursos, programas de formação profissional e soluções B2B para empresas que desejam investir no desenvolvimento de suas equipes.
 
 **Website**: [t2.com.br](https://t2.com.br)
 
@@ -27,11 +27,9 @@ Nossa infraestrutura é construída com:
 
 | Repositório | Descrição |
 |---|---|
-| `hub-t2` | Hub interno - plataforma de gestão e comunicação do time |
-| `lps` | Landing pages - campanhas e captura de leads |
-| `blog` | Blog público - conteúdo e thought leadership |
-| `docs-t2` | Documentação interna e externa |
-| `site` | Website corporativo |
+| `t2` | Monorepo principal com hub, lps, blog e website |
+| `hub-t2` | Hub interno - plataforma de gestão e comunicação |
+| `docs-t2` | Documentação técnica e onboarding |
 
 ---
 
@@ -56,28 +54,11 @@ Estamos sempre abertos a contribuições que melhorem nossa plataforma e impacto
 
 ---
 
-## Estrutura
-
-Este repositório é um **monorepo** contendo múltiplos projetos:
-
-```
-t2/
-├── hub-t2/              # Plataforma interna
-├── lps/                 # Landing pages
-├── blog/                # Blog público
-├── docs-t2/             # Documentação
-├── site/                # Website
-├── .github/             # Templates e workflows
-└── README.md            # Este arquivo
-```
-
----
-
-## Suporte
+## Contato
 
 Para questões, dúvidas ou sugestões:
 
-- Abra uma [Issue](https://github.com/t2-educacao/t2/issues)
+- Abra uma Issue no repositório relevante
 - Entre em contato: support@t2.com.br
 - Visite [t2.com.br](https://t2.com.br)
 
@@ -87,4 +68,4 @@ Para questões, dúvidas ou sugestões:
 
 Propriedade da T2 Educação. Todos os direitos reservados.
 
-© 2026 T2 Educação. Transformando vidas através da educação.
+© 2026 T2 Educação
