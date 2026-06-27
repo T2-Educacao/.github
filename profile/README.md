@@ -19,10 +19,8 @@
 
 ---
 
-Somos uma edtech focada em certificações do mercado financeiro brasileiro — CPA, C-Pro R, C-Pro I, ANCORD e CFP®. Três vezes com a maior taxa de aprovação no CFP® no Brasil.
-
-Aqui ficam os repositórios que sustentam a plataforma: hub de gestão de alunos, landing pages, blog e site institucional.
+A T2 Educação forma profissionais do mercado financeiro que vão além da certificação. Com mais de 120 mil alunos e três conquistas como escola com a maior taxa de aprovação no exame CFP® do Brasil, construímos um método que transforma conhecimento técnico em posicionamento real de carreira.
 
 ---
 
-<sub>© 2026 T2 Educação S/A · CFP® é marca registrada da Planejar.</sub>
+<sub>© 2026 T2 Educação S/A</sub>
