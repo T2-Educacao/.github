@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/+120_mil_profissionais-0a0a0a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/+130_mil_profissionais-0a0a0a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/10_anos-0a0a0a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NPS_91-0a0a0a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CFP®_maior_aprovação_3x-gold?style=for-the-badge" />
